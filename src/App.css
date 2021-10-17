@@ -1,0 +1,16 @@
+.App {
+  background: #f4fcef;
+}
+.App-header {
+  font-size: 48px;
+}
+a {
+  color: seagreen;
+}
+a:not([href]):not([class]) {
+  color: seagreen;
+  text-decoration: none;
+}
+a:not([href]):not([class]):hover {
+  color: white;
+}
