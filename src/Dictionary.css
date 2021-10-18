@@ -14,5 +14,12 @@
 }
 .Dictionary .hint {
   font-size: 11px;
-  margin-top: 3px;
+  margin-top: 5px;
+  font-style: italic;
+}
+.Dictionary .greeting {
+  font-size: 24px;
+  line-height: 1.5;
+  margin-bottom: 5px;
+  font-family: "Source Sans Pro", sans-serif;
 }
