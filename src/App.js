@@ -17,15 +17,7 @@ function App() {
           >
             Open-source code
           </a>{" "}
-          by{" "}
-          <a
-            href="https://brave-bohr-a02fb1.netlify.app/"
-            target="_blank"
-            rel="noreferrer"
-          >
-            Alejandra Baena
-          </a>
-          , hosted on Netlify.
+          by Alejandra Baena, hosted on Netlify.
         </footer>
       </div>
     </div>
