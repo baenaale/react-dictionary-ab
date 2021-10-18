@@ -11,12 +11,13 @@ body {
   text-align: center;
   font-family: "Comfortaa", cursive;
   font-weight: 700;
+  color: #023c40;
 }
 a {
-  color: seagreen;
+  color: #023c40;
 }
 a:not([href]):not([class]) {
-  color: seagreen;
+  color: #023c40;
   text-decoration: none;
 }
 a:not([href]):not([class]):hover {
